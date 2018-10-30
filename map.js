@@ -84,7 +84,7 @@ var map = L.map('divmap');
 		 			
 		 			if (feature.properties["fin_peri"]=="") {var END= "<font color=MediumSeaGreen>Aujourd'hui</font>"	}
 		 			else {var END= "<font color=red>"+feature.properties["fin_peri"]+"</font>"	}
-		 			var info4="<i class='glyphicon glyphicon-calendar'></i> De: "+feature.properties["debut_peri"]+" @ "+END;
+		 			var info4="<i class='glyphicon glyphicon-calendar'></i> De: "+feature.properties["debut_peri"]+" au "+END;
 		 			document.getElementById("info4").innerHTML =info4;
 		 			
 		 			if (feature.properties["type"]=="A") {var TYPE= '<img src="img/statioA.png" height="25px"> Automatique'}

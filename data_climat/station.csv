@@ -30,7 +30,7 @@ ID_STATION,ID_MF,Long,Lat,TYPE,ALTITUDE,INSEE,NOM_COMMUNE,NOM_STATION,ZONE_HYDRO
 59,34145001,4.1323645,43.6645968,M,7,34145,LUNEL,Lunel- Caserne des Pompiers,Y334 - Côtiers du Bérarge au Vidourle,0,0,Validée,01/01/1948,31/12/2012
 64,34162001,3.5543575,43.4726142,M,45,34162,MONTAGNAC,Montagnac- les Sacristains,Y300 - Côtiers de L'Hérault au ruisseau de Nègue Vaques inclus,1,0,Validée,01/01/1975,31/12/1992
 65,34163001,3.688127,43.6358395,B,142,34163,MONTARNAUD,Montarnaud- Le Bois d'Arnaud,Y310 - La Mosson de sa source au ruisseau de Miege Sole inclus,1,1,Validée,01/02/1977,
-68,34172008,3.8584285,43.6191601,A,50,34172,MONTPELLIER,Montpellier- ACH avenue d'Assas,Y321 - Le Lez de la Lironde incluse la mer Méditerranée,1,1,Validée,01/01/1993,06/09/2015
+68,34172008,3.8584285,43.6191601,A,50,34172,MONTPELLIER,Montpellier- ACH avenue d'Assas,Y321 - Le Lez de la Lironde inclue la mer Méditerranée,1,1,Validée,01/01/1993,06/09/2015
 73,34186001,3.3059314,43.6551509,M,187,34186,OCTON,Octon- Mas de Ruffas,Y223 - Le Salagou,0,0,Validée,01/01/1961,
 75,0,2.9113473,43.555122,A,174,34187,OLARGUES,Olargues- champ des Horts,Y254 - Le Jaur,1,1,Contrôlée,25/07/1997,
 136,34199004,3.4032133,43.4397324,M,30,34199,PEZENAS,Pézenas sa- Bonne Terre,Y235 - L'Hérault de la Peyne à la Thongue,1,0,Validée,02/08/1974,31/05/1993
