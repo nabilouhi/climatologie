@@ -1,0 +1,64 @@
+ID_STATION,ID_MF,Long,Lat,TYPE,ALTITUDE,INSEE,NOM_COMMUNE,NOM_STATION,ZONE_HYDROGRAPHIQUE,dispoTemp,DispoHeure,VALIDATION,DEBUT_PERI,FIN_PERI
+3,34008001,3.1083409,43.5842559,M,184,34008,LES AIRES,La Garenne,Y253 - L'Orb de la Mare au Jaur,1,0,Validée,01/01/1995,
+6,0,2.734423,43.320147,A,80,34020,AZILLANET,Azillanet- Mairie,Y144 - L'Ognon,1,1,Contrôlée,04/07/1997,
+7,34026001,2.755414,43.297833,M,86,34026,BEAUFORT,Beaufort,Y144 - L'Ognon,1,0,Validée,01/10/1970,31/12/2006
+11,34030002,2.9629647,43.4907592,M,192,34030,BERLOU,Le Burguet,Y255 - L'Orb du Jaur au Vernazobre,1,0,Validée,01/05/1985,
+13,34032002,3.1471452,43.3382568,M,28,34032,BEZIERS,Béziers- la Courtade,Y258 - L'Orb du Taurou à la mer Méditerranée,1,0,Validée,01/01/1970,31/12/2011
+12,34032001,3.2200079,43.3378722,M,89,34032,BEZIERS,Béziers- ville,Y258 - L'Orb du Taurou à la mer Méditerranée,0,0,Validée,01/01/1975,31/12/1989
+14,34032015,3.2022589,43.3023554,A,37,34032,BEZIERS,Béziers-Bayssan- Domaine Bayssan,Y258 - L'Orb du Taurou à la mer Méditerranée,1,1,Validée,09/04/2014,
+16,34038001,3.1623148,43.709503,M,280,34038,LE BOUSQUET-D'ORB,Le Bousquet-d'Orb- Cazilhac,Y250 - L'Orb de sa source au Graveson,0,0,Validée,01/01/1949,31/07/2016
+17,34040001,3.2561275,43.6531471,M,445,34040,BRENAS,Brenas,Y223 - Le Salagou,0,0,Validée,01/01/1961,
+19,0,3.3637819,43.5672712,A,101,34045,CABRIERES,Cabrières,Y232 - La Boyne,1,1,Contrôlée,17/02/1999,
+23,34051001,3.474853,43.5958598,M,49,34051,CANET,Canet- le Bosc,Y230 - L'Hérault de la Lergue au ruisseau de Rouvièges,0,0,Validée,01/01/1967,
+32,34069001,3.0983143,43.4031565,M,90,34069,CAZOULS-LES-BEZIERS,Cazouls-les-Béziers- Les Trois Angles,Y257 - L'Orb du Vernazobre au Taurou inclus,1,0,Validée,01/06/1977,31/07/2014
+34,0,3.0683285,43.4526875,A,50,34074,CESSENON-SUR-ORB,Cessenon- Viranel,Y257 - L'Orb du Vernazobre au Taurou inclus,1,1,Contrôlée,14/07/1999,
+35,0,3.8929611,43.8611182,A,161,34078,CLARET,Claret- Farjou,Y342 - Le Brestalou,1,1,Contrôlée,12/03/1999,
+36,34079001,3.4343858,43.6323625,M,98,34079,CLERMONT-L'HERAULT,Clermont l'Hérault- gendarmerie,Y224 - La Lergue du Salagou à L'Hérault,0,0,Validée,01/01/1975,30/06/2001
+37,34079004,3.3985665,43.6565605,A,149,34079,CLERMONT-L'HERAULT,Clermont l'Herault- Salagou,Y223 - Le Salagou,1,1,Validée,27/11/2004,
+38,34082001,3.7745677,43.6771907,M,100,34082,COMBAILLAUX,Combaillaux- les Sajolles,Y310 - La Mosson de sa source au ruisseau de Miege Sole inclus,0,0,Validée,01/01/1991,31/08/2002
+39,34086001,2.6935998,43.4970895,M,500,34086,COURNIOU,Courniou- Prouilhe,Y254 - Le Jaur,1,0,Validée,01/01/1971,31/12/2006
+40,0,3.7409961,43.5307022,A,53,34095,FABREGUES,Fabrègues,Y313 - Ruisseau du Coulazou,1,1,Contrôlée,28/05/1997,
+42,0,3.8214614,43.8634078,A,310,34099,FERRIERES-LES-VERRERIES,Ferrières-les-Verreries- mas de Baume,Y212 - Le Lamalou,1,1,Contrôlée,20/12/1996,
+47,34109001,3.2752009,43.5140157,M,120,34109,GABIAN,Gabian,Y236 - La Thongue,0,0,Validée,01/01/1994,31/05/1997
+49,34114001,3.556256,43.662509,M,58,34114,GIGNAC,Gignac- la Meuse,Y214 - L'Hérault du Verdus à la Lergue,1,1,Validée,01/01/1991,31/10/2004
+51,34119001,3.1138791,43.5932208,M,192,34119,HEREPIAN,Hérépian,Y253 - L'Orb de la Mare au Jaur,1,0,Validée,01/01/1977,31/07/1994
+52,34121001,3.1951381,43.7387749,M,390,34121,JONCELS,Joncels,Y251 - L'Orb du Graveson inclus à la Mare,0,0,Validée,01/01/1961,31/12/1993
+54,34135001,3.1651276,43.2739024,M,21,34135,LESPIGNAN,Lespignan- Les Passerieres,Y161 - L'Aude de la Cesse à la mer Méditerranée,1,0,Validée,01/01/1988,
+55,34141002,2.6357292,43.3147319,M,150,34141,LA LIVINIERE,La Livinière- bourg,Y144 - L'Ognon,1,0,Validée,01/01/1970,31/12/2014
+56,0,2.6219303,43.3279895,A,201,34141,LA LIVINIERE,La Livinière- Ste Eulalie,Y144 - L'Ognon,1,1,Contrôlée,01/01/2010,
+57,34142001,3.3205179,43.739387,M,185,34142,LODEVE,Lodève- Versailles Premerlet,Y221 - La Lergue du Laurounet au Roubieu,1,0,Validée,01/01/1986,
+59,34145001,4.1323645,43.6645968,M,7,34145,LUNEL,Lunel- Caserne des Pompiers,Y334 - Côtiers du Bérarge au Vidourle,0,0,Validée,01/01/1948,31/12/2012
+64,34162001,3.5543575,43.4726142,M,45,34162,MONTAGNAC,Montagnac- les Sacristains,Y300 - Côtiers de L'Hérault au ruisseau de Nègue Vaques inclus,1,0,Validée,01/01/1975,31/12/1992
+65,34163001,3.688127,43.6358395,B,142,34163,MONTARNAUD,Montarnaud- Le Bois d'Arnaud,Y310 - La Mosson de sa source au ruisseau de Miege Sole inclus,1,1,Validée,01/02/1977,
+68,34172008,3.8584285,43.6191601,A,50,34172,MONTPELLIER,Montpellier- ACH avenue d'Assas,Y321 - Le Lez de la Lironde incluse la mer Méditerranée,1,1,Validée,01/01/1993,06/09/2015
+73,34186001,3.3059314,43.6551509,M,187,34186,OCTON,Octon- Mas de Ruffas,Y223 - Le Salagou,0,0,Validée,01/01/1961,
+75,0,2.9113473,43.555122,A,174,34187,OLARGUES,Olargues- champ des Horts,Y254 - Le Jaur,1,1,Contrôlée,25/07/1997,
+136,34199004,3.4032133,43.4397324,M,30,34199,PEZENAS,Pézenas sa- Bonne Terre,Y235 - L'Hérault de la Peyne à la Thongue,1,0,Validée,02/08/1974,31/05/1993
+79,34200001,3.2515172,43.622007,M,400,34200,PEZENES-LES-MINES,Mas Bousquet,Y223 - Le Salagou,0,0,Validée,01/01/1961,30/09/1994
+80,34200003,3.2518641,43.6220152,M,404,34200,PEZENES-LES-MINES,Mas Bousquet,Y223 - Le Salagou,0,0,Validée,01/09/1994,
+81,0,3.5265734,43.5521807,A,56,34204,PLAISSAN,Plaissan,Y231 - L'Hérault du ruisseau de Rouvièges inclus à la Boyne,1,1,Contrôlée,27/06/1996,
+84,34210001,3.5203534,43.5797704,M,69,34210,LE POUGET,Le Pouget- l'Estang,Y231 - L'Hérault du ruisseau de Rouvièges inclus à la Boyne,1,0,Validée,01/04/1977,
+85,34212001,3.3256375,43.764478,M,273,34212,POUJOLS,Poujols- Bourg,Y220 - La Lergue de sa source au Laurounet inclus,0,0,Validée,01/01/1961,
+86,0,3.2719143,43.4856653,A,89,34214,POUZOLLES,Pouzolles,Y236 - La Thongue,1,1,Contrôlée,22/08/1996,
+88,0,2.9767881,43.4409929,A,107,34218,PRADES-SUR-VERNAZOBRE,Prades sur Vernazobre- La Croix Sainte Eulalie,Y256 - Le Vernazobre,1,1,Contrôlée,17/10/1997,
+89,0,3.0726769,43.3756481,A,70,34225,PUISSERGUIER,Puisserguier- domaine de la Guiraude,Y258 - L'Orb du Taurou à la mer Méditerranée,1,1,Contrôlée,04/10/1996,
+91,34232001,3.0283781,43.5016752,M,150,34232,ROQUEBRUN,Roquebrun- Jardin mediterraneen,Y255 - L'Orb du Jaur au Vernazobre,1,0,Validée,01/01/1961,
+96,0,4.0912514,43.7319253,A,63,34246,SAINT-CHRISTOL,Saint-Christol- bois de l'Hôpital,Y346 - Le Vidourle de la Bénovie à la mer Méditerranée,1,1,Contrôlée,22/04/1997,
+98,34249002,3.9858272,43.7350186,M,104,34249,SAINT-DREZERY,Saint-Drézéry- cave cooperative,Y333 - Le Bérarge,1,0,Validée,01/01/1981,31/12/2012
+130,34249002,3.9933644,43.7287857,A,75,34249,SAINT-DREZERY,Saint-Drézéry,Y333 - Le Bérarge,1,1,Validée,25/01/2014,
+101,0,3.6192859,43.8313816,A,187,34264,SAINT-JEAN-DE-BUEGES,Saint-Jean-de-Buèges,Y211 - L'Hérault de l'Alzon au Lamalou,1,1,Contrôlée,10/11/1999,
+104,34274001,3.7311515,43.7862148,M,194,34274,SAINT-MARTIN-DE-LONDRES,Saint-Martin-de-Londres,Y212 - Le Lamalou,1,0,Validée,01/01/2007,
+105,34276002,3.8560992,43.7685034,M,130,34276,SAINT-MATHIEU-DE-TREVIERS,Saint-Mathieu-de-Treviers,Y320 - Le Lez de sa source à la Lironde,1,0,Validée,01/01/1970,30/11/1989
+106,34276003,3.8561116,43.7685033,M,130,34276,SAINT-MATHIEU-DE-TREVIERS,Saint-Mathieu-de-Tréviers- St Mathieu,Y320 - Le Lez de sa source à la Lironde,1,0,Validée,01/12/1989,31/05/1990
+107,34277001,3.5161295,43.8423306,M,574,34277,SAINT-MAURICE-NAVACELLES,Bourg,Y203 - La Vis,0,0,Validée,01/01/1961,
+110,34292001,3.3139655,43.6195681,M,200,34292,SALASC,Salasc,Y223 - Le Salagou,0,0,Validée,01/01/1961,31/12/1987
+111,34293001,2.7039839,43.6021628,M,685,34293,LA SALVETAT-SUR-AGOUT,La Salvetat sur Agout- Barri Campemare,O401 - L'Agout du confluent des Escandes (inclus) au confluent de la Vèbre,0,0,Validée,01/01/1948,
+112,34300001,3.3314812,43.4421887,M,70,34300,SERVIAN,Servian- Domaine de St Michel,Y236 - La Thongue,1,0,Validée,01/10/1972,30/11/2015
+113,34300002,3.3040537,43.4132821,A,50,34300,SERVIAN,Servian- le puech Arnaud,Y236 - La Thongue,1,1,Validée,01/04/2009,
+115,34302001,2.6753415,43.3271465,M,138,34302,SIRAN,Siran- Najac,Y144 - L'Ognon,0,0,Validée,01/01/1961,
+118,34319001,3.3019262,43.5511754,M,153,34319,VAILHAN,Vailhan- Bourg,Y234 - La Peyne,0,0,Validée,01/01/1998,
+119,34322001,3.8712696,43.7983778,M,150,34322,VALFLAUNES,Valflaunès,Y320 - Le Lez de sa source à la Lironde,1,0,Validée,01/01/1961,09/02/2000
+121,0,3.8455509,43.7883121,A,125,34322,VALFLAUNES,Valflaunès- la Plaine,Y320 - Le Lez de sa source à la Lironde,1,1,Contrôlée,10/02/2000,
+123,34330001,4.0966316,43.7212431,M,45,34330,VERARGUES,Verargues- Le Boulidou,Y334 - Côtiers du Bérarge au Vidourle,1,0,Validée,01/01/1977,
+127,34339001,2.8809015,43.3642538,M,212,34339,VILLESPASSANS,Combebelle à Bize-Minervois,Y160 - La Cesse,1,0,Validée,01/06/1977,
+128,0,3.5832884,43.479741,A,31,34341,VILLEVEYRAC,Villeveyrac,Y301 - Côtiers du ruisseau de Nègue Vasques à la Vène,1,1,Contrôlée,23/01/1999,
